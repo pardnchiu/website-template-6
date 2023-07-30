@@ -1,0 +1,9 @@
+# 忽略系統檔案
+.DS_Store
+*.code-workspace
+icon?
+# 忽略.scss
+*.scss
+# 忽略.js 僅保留.min.js
+*.js
+!*.min.js
